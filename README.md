@@ -5,7 +5,7 @@ to a file. It also attempts to backup any "include" domains.
 
 # Example
 
-Backing google.com's spf records:
+Backup google.com's spf records:
 ```bash
 $ save-spf.sh google.com
 
